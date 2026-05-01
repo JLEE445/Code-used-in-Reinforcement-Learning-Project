@@ -21,6 +21,10 @@ Matplotlib, for plotting results
 
 How to run software:
 In VSCode, load the repository, download a 3.12 version of Python, ensure the above libraries are included, and run.
+Please run 2.Customisable_Basic_Q_Learning.py for the tabular Q-learning experiment.
+Please run 3.DQN.py for the DQL experiment.
+Please run 7.Final_MA.py for an animation of agents moving.
+Please run 9.batch_simulations.py for batch simulations of multi-agent configurations.
 
 Technical Details:
 Key technical details are highlighted in the project report, including the structure of the algorithms and equations.
