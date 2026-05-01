@@ -35,4 +35,7 @@ Animations are slow and of poor quality; this needs to be amended.
 In multi-agent simulations, too much information is output in the terminal; this needs to be fixed.
 Deep Q-learning is slow - potentially due to unknown bugs; this needs to be looked into.
 
+It should also be noted that Microsoft's extension, called Makefile Tool, was installed in VSCode to help write code faster. It suggested lines of code, and these were carefully read through to ensure they were what the programmer intended. Many of them were incorrect, but occasionally they helped speed up code writing.
+
 Please note that if the code does not run, please consider downloading the full code repository linked at the start and running the same code from there. Due to GitHub problems, I had to keep a manual record of previous code attempts for debugging purposes. The code repository is not as organised as it could be. This is a known issue. Thank you.
+
